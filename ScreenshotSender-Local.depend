@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1579288344 source:c:\users\marco\downloads\screenshotsender-local\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<SFML/Graphics.hpp>
+	<vector>
+	<iostream>
+	<sstream>
+	"functions.h"
+
+1579273399 c:\users\marco\downloads\screenshotsender-local\functions.h
+	<SFML/Network.hpp>
+
